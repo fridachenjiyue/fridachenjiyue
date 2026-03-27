@@ -12,6 +12,7 @@ Advisor: Dr. Omar Ashour | Funded by Penn State Behrend Undergraduate Research G
 - Designed RL-based policies for dynamic resource allocation  
 - Focused on decision-making under uncertainty and operational constraints  
 - Paper accepted at IISE Annual Conference 2026 (to be presented)
+- This is ongoing work, currently being extended toward journal submission.
 
 ## Publication
 Chen, J. (2024). The Investigation on Anime-Themed Recommendation Systems.  
