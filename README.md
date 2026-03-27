@@ -1,16 +1,27 @@
-## Hi there 👋
+# Jiyue (Frida) Chen
 
-<!--
-**fridachenjiyue/fridachenjiyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS Undergraduate @ Penn State Behrend | Reinforcement Learning & AI Research**
 
-Here are some ideas to get you started:
+I'm a first-year Computer Science student at Penn State, actively engaged in research on 
+reinforcement learning for complex system optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Research
+**RL for Emergency Department Congestion** (Oct 2025 – Present)  
+Advisor: Dr. Omar Ashour | Funded by Penn State Behrend Undergraduate Research Grant  
+- Built a discrete-event simulation environment  
+- Designed RL-based policies for dynamic resource allocation  
+- Focused on decision-making under uncertainty and operational constraints  
+- Paper accepted at IISE Annual Conference 2026 (to be presented)
+
+## Publication
+Chen, J. (2024). The Investigation on Anime-Themed Recommendation Systems.  
+*Highlights in Science, Engineering and Technology*, 81, 121–131.
+
+## Research Interests
+Reinforcement learning · Learning-guided optimization · Decision-making under uncertainty · 
+Constraint-aware policies for complex systems · Human-centered AI (long-term)
+
+
+## Links
+- [LinkedIn](https://www.linkedin.com/in/jiyue-chen-frida/)
+- Email: jxc6952@psu.edu / frida.chenjiyue@gmail.com
